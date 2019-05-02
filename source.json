@@ -2,7 +2,7 @@
   "format": "raster",
   "name": "shaded.tiles.tilecloud.io",
   "description": "Tiles derived from the public Natural Earth data.",
-  "maxzoom": 12,
+  "maxzoom": 6,
   "tiles": [
     "https://shaded.tiles.tilecloud.io/tiles/{z}/{x}/{y}.png"
   ],
