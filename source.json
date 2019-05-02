@@ -1,0 +1,11 @@
+{
+  "format": "pbf",
+  "name": "shaded.tiles.tilecloud.io",
+  "description": "Tiles derived from the public Natural Earth data.",
+  "maxzoom": "10",
+  "id": "shaded",
+  "tilejson": "2.0.0",
+  "tiles": [
+    "https://shaded.tiles.tilecloud.io/tiles/{z}/{x}/{y}.png"
+  ]
+}
