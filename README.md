@@ -1,4 +1,4 @@
-# shaded.tiles.tilecloud.io
+# shaded.tiles.geolonia.com
 
 A raster tile based on https://www.naturalearthdata.com/.
 

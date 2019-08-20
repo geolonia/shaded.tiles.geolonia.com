@@ -1,10 +1,10 @@
 {
   "format": "raster",
-  "name": "shaded.tiles.tilecloud.io",
+  "name": "shaded.tiles.geolonia.com",
   "description": "Tiles derived from the public Natural Earth data.",
   "maxzoom": 6,
   "tiles": [
-    "https://shaded.tiles.tilecloud.io/tiles/{z}/{x}/{y}.png"
+    "https://shaded.tiles.geolonia.com/tiles/{z}/{x}/{y}.png"
   ],
   "tileSize": 256
 }
